@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="orderservice" />
+        <module name="produceservice" />
+        <module name="zkApiDemo" />
+        <module name="zkconfig" />
+        <module name="zkleader" />
+        <module name="zookeeperlock" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="orderservice" target="1.8" />
+      <module name="produceservice" target="1.8" />
+      <module name="zkApiDemo" target="1.8" />
+      <module name="zkconfig" target="1.8" />
+      <module name="zkleader" target="1.8" />
+      <module name="zkRegister" target="1.5" />
+      <module name="zookeeperlock" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

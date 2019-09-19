@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/zkApiDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/orderservice/pom.xml" />
+        <option value="$PROJECT_DIR$/produceservice/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeperlock/pom.xml" />
+        <option value="$PROJECT_DIR$/zkleader/pom.xml" />
+        <option value="$PROJECT_DIR$/zkconfig/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

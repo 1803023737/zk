@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/orderservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/produceservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zkApiDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zkconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zkleader" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeperlock" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

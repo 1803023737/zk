@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/orderservice/orderservice.iml" filepath="$PROJECT_DIR$/orderservice/orderservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produceservice/produceservice.iml" filepath="$PROJECT_DIR$/produceservice/produceservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zk.iml" filepath="$PROJECT_DIR$/.idea/zk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zkApiDemo/zkApiDemo.iml" filepath="$PROJECT_DIR$/zkApiDemo/zkApiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zkconfig/zkconfig.iml" filepath="$PROJECT_DIR$/zkconfig/zkconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zkleader/zkleader.iml" filepath="$PROJECT_DIR$/zkleader/zkleader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeperlock/zookeeperlock.iml" filepath="$PROJECT_DIR$/zookeeperlock/zookeeperlock.iml" />
+    </modules>
+  </component>
+</project>
